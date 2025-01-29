@@ -1,2 +1,2 @@
 # FirstTemplate
-This tamplete create only by Html and CSS
+This tamplete create by only Html and CSS
